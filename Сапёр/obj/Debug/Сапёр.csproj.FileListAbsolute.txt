@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\obj\Debug\Сапёр.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\obj\Debug\Сапёр_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\bin\Debug\Сапёр.exe.config
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\bin\Debug\Сапёр.exe
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\bin\Debug\Сапёр.pdb
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\obj\Debug\Сапёр_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\obj\Debug\Сапёр.g.resources
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\obj\Debug\Сапёр.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\obj\Debug\Сапёр.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\obj\Debug\Сапёр.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\obj\Debug\Сапёр.exe
+C:\Users\Пользователь\source\repos\Сапёр\Сапёр\obj\Debug\Сапёр.pdb
